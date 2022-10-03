@@ -17,3 +17,9 @@
 
 # Games
 ![My osu! status](https://osu-sig.vercel.app/card?user=HIMlaoS_Misa&mode=std&animation=true)
+
+# Contact
+
+* [![Telegram](https://img.shields.io/badge/Telegram-%40HIMlaoS__Misa-2da1da?logo=telegram)](https://t.me/HIMlaoS_Misa)
+* ![Discord](https://img.shields.io/badge/Discord-HIMlaoS__Misa%230822-5865f2?logo=discord)
+* ![eMail](https://img.shields.io/badge/Mail-misaliu%40misaliu.top-lightgrey?logo=gmail)
