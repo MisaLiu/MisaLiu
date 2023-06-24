@@ -22,5 +22,5 @@
 
 * [![Telegram](https://img.shields.io/badge/Telegram-%40HIMlaoS__Misa-2da1da?logo=telegram)](https://t.me/HIMlaoS_Misa)
 * [![Twitter](https://img.shields.io/badge/Twitter-%40HIMlaoS__Misa-blue?logo=twitter)](https://twitter.com/himlaos_misa)
-* ![Discord](https://img.shields.io/badge/Discord-HIMlaoS__Misa%230822-5865f2?logo=discord)
+* [![Discord](https://img.shields.io/badge/Discord-himlaos__misa-5865f2?logo=discord)](https://discord.com/users/951005714283900979)
 * ![eMail](https://img.shields.io/badge/Mail-misaliu%40misaliu.top-lightgrey?logo=gmail)
