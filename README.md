@@ -1,26 +1,33 @@
-[![MisaLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaLiu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-# Me
-你好，我是 Misa ，欢迎来访我的 GitHub 主页
-
-常用语言：
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaLiu&show_icons=true&theme=dark)
-
-![PHP](https://img.shields.io/static/v1?label=%20&message=PHP&logo=php&color=brightgreen)
-![HTML](https://img.shields.io/static/v1?label=Language&message=HTML&color=brightgreen)
-![CSS](https://img.shields.io/static/v1?label=Language&message=CSS&color=brightgreen)
-![JavaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&logo=javascript&color=brightgreen)
-![EPL](https://img.shields.io/static/v1?label=Language&message=EPL&color=brightgreen)
-
-各个项目的风格和起因可能有很大出入，并且很容易咕，请谨慎 follow
-
-# Games
-![My osu! status](https://osu-sig.vercel.app/card?user=HIMlaoS_Misa&mode=std&animation=true)
-
-# Contact
-
-* [![Telegram](https://img.shields.io/badge/Telegram-%40HIMlaoS__Misa-2da1da?logo=telegram)](https://t.me/HIMlaoS_Misa)
-* [![Twitter](https://img.shields.io/badge/Twitter-%40HIMlaoS__Misa-blue?logo=twitter)](https://twitter.com/himlaos_misa)
-* [![Discord](https://img.shields.io/badge/Discord-himlaos__misa-5865f2?logo=discord)](https://discord.com/users/951005714283900979)
-* ![eMail](https://img.shields.io/badge/Mail-misaliu%40misaliu.top-lightgrey?logo=gmail)
+<p align="center">
+  <img src="index_img.png" />
+</p>
+<h3 align="center">
+  「我爱的人也爱着我，对我来说这简直是个奇迹。」
+</h3>
+<hr />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MisaLiu&show_icons=true&theme=dracula&hide=issues&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaLiu&theme=dracula&layout=compact" />
+</p>
+<hr />
+<p align="center">
+  <img src="https://osu-sig.vercel.app/card?user=HIMlaoS_Misa&mode=std&animation=true&mini=true" />
+</p>
+<hr />
+<p align="center">
+  <a href="https://space.bilibili.com/143403774" target="_blank">
+    <img src="https://img.shields.io/badge/BiliBili-%40HIMlaoS__Misa-fb7299?style=flat&logo=bilibili&logoColor=%23fb7299" />
+  </a>
+  <a href="https://twitter.com/himlaos_misa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%40HIMlaoS__Misa-blue?logo=twitter" />
+  </a>
+  <a href="https://t.me/HIMlaoS_Misa" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40HIMlaoS__Misa-2da1da?logo=telegram" />
+  </a>
+  <a href="https://discord.com/users/951005714283900979" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-himlaos__misa-5865f2?logo=discord" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-misaliu%40misaliu.top-lightgrey?logo=gmail" />
+  </a>
+</p>
