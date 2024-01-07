@@ -10,7 +10,9 @@
 </p>
 <hr />
 <p align="center">
-  <img src="https://osu-sig.vercel.app/card?user=HIMlaoS_Misa&mode=std&animation=true&mini=true" />
+  <a href="https://osu.ppy.sh/users/12526112">
+    <img src="https://osu-sig.vercel.app/card?user=HIMlaoS_Misa&mode=std&animation=true&mini=true" />
+  </a>
 </p>
 <hr />
 <p align="center">
