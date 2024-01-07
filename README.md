@@ -1,10 +1,9 @@
 <p align="center">
   <img src="index_img.png" />
 </p>
-<h3 align="center">
+<h2 align="center">
   「我爱的人也爱着我，对我来说这简直是个奇迹。」
-</h3>
-<hr />
+</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MisaLiu&show_icons=true&theme=dracula&hide=issues&line_height=24" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaLiu&theme=dracula&layout=compact" />
