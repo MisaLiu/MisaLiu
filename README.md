@@ -28,7 +28,7 @@
   <a href="https://discord.com/users/951005714283900979" target="_blank">
     <img src="https://img.shields.io/badge/Discord-himlaos__misa-5865f2?logo=discord" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#user-profile-frame">
     <img src="https://img.shields.io/badge/Mail-misaliu%40misaliu.top-lightgrey?logo=gmail" />
   </a>
 </p>
