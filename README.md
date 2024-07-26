@@ -10,12 +10,6 @@
 </p>
 <hr />
 <p align="center">
-  <a href="https://osu.ppy.sh/users/12526112">
-    <img src="https://osu-sig.vercel.app/card?user=HIMlaoS_Misa&mode=std&animation=true&mini=true" />
-  </a>
-</p>
-<hr />
-<p align="center">
   <a href="https://space.bilibili.com/143403774" target="_blank">
     <img src="https://img.shields.io/badge/BiliBili-%40HIMlaoS__Misa-fb7299?style=flat&logo=bilibili&logoColor=%23fb7299" />
   </a>
